@@ -1,0 +1,15 @@
+media/
+anarchy/
+.vscode
+.pytest_cache
+.ipynb_checkpoints
+__pycache__
+
+*.csv
+*.html
+*.ini
+*.txt
+*.tsv
+*.h5
+
+
